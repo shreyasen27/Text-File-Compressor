@@ -1,0 +1,24 @@
+{
+  "name": "text-file-compressor-main",
+  "version": "1.0.0",
+  "description": "A simple text file compressor project with a BinaryHeap implementation and Express server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "file",
+    "compressor",
+    "heap",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
